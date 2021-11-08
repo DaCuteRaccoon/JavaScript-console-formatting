@@ -10,3 +10,9 @@
 `!#bgcolor(text)` for named background color<br/>
 `#RGBA(text)` and `!#RGBA(text)` for *browser only* colors via CSS styles<br/><br/>
 ### That is pretty much it, since there’s rarely something more you’d like to log, isn’t it?
+
+
+
+<!--
+https://webreflection.co.uk/blog/2016/10/20/markdown-in-console#the-current-console-status
+-->
